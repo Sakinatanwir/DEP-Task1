@@ -1,2 +1,2 @@
-# DEP-Task1
+# DEP-Tasks
 Designed Webiste homepage
